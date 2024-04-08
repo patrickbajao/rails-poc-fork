@@ -4,4 +4,4 @@
 Rails.application.config.assets.version = "1.0"
 
 
-puts 'SECURE'
+puts 'EVIL'
